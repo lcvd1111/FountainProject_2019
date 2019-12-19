@@ -2,7 +2,7 @@
 
 <h5>
 <ol>
- <li>소개 및 상세 발표</li><br/>
+ <li>소개 및 상세 발표(<a href="./resources/html/발표.md">#</a>)</li><br/>
  <li>제작과정 기록들(<a href="./resources/html/제작과정.md">#</a>)</li><br/>
  <li>코드 및 회로 링크</li><br/>
  <li>참고 자료들(<a href="./resources/html/참고자료.md">#</a>)</li><br/>
