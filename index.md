@@ -4,7 +4,7 @@
 <ol>
  <li>소개 및 상세 발표(<a href="./resources/html/발표.md">#</a>)</li><br/>
  <li>제작과정 기록들(<a href="./resources/html/제작과정.md">#</a>)</li><br/>
- <li>코드 및 회로 링크</li><br/>
+ <li>코드 및 회로 링크(코드: <a href="./resources/code1/Record_and_Play.ino">#</a><a href="./resources/code2/spectrum.ino">#</a></li><br/>
  <li>참고 자료들(<a href="./resources/html/참고자료.md">#</a>)</li><br/>
  <li>사용 재료들(<a href="./resources/html/사용재료들.md">#</a>)</li><br/>
 </ol>
