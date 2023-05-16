@@ -1,3 +1,10 @@
+<p>It is a fountain which was made using arduino.<br>It has two features.</p>
+<p>
+1) Record and Play<br/>
+2) React to music.<br/>
+</p>
+This project was done in 2019.<br/>
+
 <h1>목차</h1>
 
 <h5>
